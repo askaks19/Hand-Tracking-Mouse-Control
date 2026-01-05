@@ -256,7 +256,7 @@ If you encounter any issues or have questions:
 
 **[⬆ Back to Top](#-hand-tracking-mouse-control)**
 
-Made with ❤️ by [askaks19](https://github.com/askaks19)
+Made with ❤️ by [ayushhhks](https://github.com/ayushhhks)
 
 ⭐ If you find this project useful, please consider giving it a star!
 
